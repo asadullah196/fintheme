@@ -1,6 +1,6 @@
 <?php get_header(); ?>
 <!-- ======== 9.1. Blogs cards section ========  -->
-<section class="news-cards search">
+<section class="news-cards search-asad">
     <div class="container">
         <div class="row d-flex gap-md-0 gap-sm-5 gap-4 mb-5">
         <!-- blog post start --> 
